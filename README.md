@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Ellenyz
-- 👀 I’m interested in data analysis and marketing
-- 🌱 I’m currently learning SQL and viz
+- 👀 I’m interested in data analysis and digital marketing
+- 🌏 I have research interests in healthcare and social wellness
+- 🌱 I’m currently learning SQL and data visualization
 - 💞️ I’m looking for and willint to offer mentorship
-- 📫 Feel free to connect with me on LinkedIn! https://www.linkedin.com/in/ellenyz/
+- 📫 Please feel free to connect with me on LinkedIn! https://www.linkedin.com/in/ellenyz/
 
 <!---
 Ellenyz/Ellenyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
