@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analysis and digital marketing
 - 🌏 I have research interests in healthcare and social wellness
 - 🌱 I’m currently learning SQL and data visualization
-- 💞️ I’m looking for and willint to offer mentorship
+- 💞️ I’m looking for and willing to offer mentorship
 - 📫 Please feel free to connect with me on LinkedIn! https://www.linkedin.com/in/ellenyz/
 
 <!---
